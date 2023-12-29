@@ -10,7 +10,7 @@
   "simple_colors": {
     "accent": -341779
   },
-  "colors": {
+  "colors":{
   "color_brand_830": -13102033,
   "color_brand_500_alpha_10": 452930707,
   "color_creator_revenue_end_500": -2615623,
@@ -67,6 +67,7 @@
   "color_focus_primary_330": -427300,
   "color_brand_new_330": -481048,
   "color_brand_new_130": -69382,
+  "color_design_dark_default_color_primary": -227624,
   "color_focus_primary_730": -10813367,
   "color_brand_new_800": -11986367,
   "color_brand_new_600": -5948268,
@@ -104,7 +105,9 @@
   "color_brand_230": -207620,
   "color_brand_430": -757528,
   "color_design_default_color_primary": -1179449,
-  "color_brand_630": -7392115
-},
+  "color_brand_630": -7392115,
+  "color_design_dark_default_color_primary_variant": -2883425
+}
+,
   "drawable_tints": {}
 }
