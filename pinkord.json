@@ -3,7 +3,7 @@
         "author": "marte77",
         "name": "Pinkord\n",
         "version": "1.0.0",
-        "updater": "https://github.com/Marte77/Pink-cord-accent/blob/main/pinkord.json"
+        "updater": "https://raw.githubusercontent.com/Marte77/Pink-cord-accent/main/pinkord.json"
     },
     "background": {},
     "fonts": {},
