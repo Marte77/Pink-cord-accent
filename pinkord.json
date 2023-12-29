@@ -2,7 +2,7 @@
     "manifest": {
         "author": "marte77",
         "name": "Pinkord\n",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "updater": "https://raw.githubusercontent.com/Marte77/Pink-cord-accent/main/pinkord.json"
     },
     "background": {},
